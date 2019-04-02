@@ -1,0 +1,193 @@
+[ 2018-05-12T10:12:39+08:00 ] ::1 /goodsManage/index.php/Admin/Index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011568s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'goodsmanage'
+
+[ 2018-05-12T10:12:41+08:00 ] ::1 /goodsManage/index.php/Admin/Index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'goodsmanage'
+
+[ 2018-05-12T10:12:47+08:00 ] ::1 /goodsManage/index.php/Admin/Index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003857s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'goodsmanage'
+
+[ 2018-05-12T10:13:23+08:00 ] ::1 /goodsManage/index.php/Admin/Index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000676s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001438s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'goodsmanage'
+
+[ 2018-05-12T10:13:26+08:00 ] ::1 /goodsManage/index.php/Admin/Index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000832s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'goodsmanage'
+
+[ 2018-05-12T10:13:54+08:00 ] ::1 /goodsManage/index.php/Admin/Index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001370s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'goodsmanage'
+
+[ 2018-05-12T10:16:05+08:00 ] ::1 /goodsManage/index.php/Admin/Index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001331s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'goodsmanage'
+
+[ 2018-05-12T10:17:40+08:00 ] ::1 /goodsManage/index.php/Admin/Index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000829s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_admin` [ RunTime:0.0301s ]
+SQL: SELECT * FROM `goodsmanage_admin` WHERE ( name='admin' AND password='123' ) LIMIT 1   [ RunTime:0.0064s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000556s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000602s ]
+
+[ 2018-05-12T10:21:09+08:00 ] ::1 /goodsManage/index.php/Admin/Addprovider/providerAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001151s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002139s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_provider` [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: validate /Applications/MAMP/htdocs/goodsManage/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /Applications/MAMP/htdocs/goodsManage/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `goodsmanage_provider` (`name`,`person`,`phone`,`adress`) VALUES ('供应商1','大哥哥','13666767678','华北区域') [ RunTime:0.0023s ]
+SQL: SELECT * FROM `goodsmanage_provider` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0015s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000886s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000940s ]
+
+[ 2018-05-12T10:22:02+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000826s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_goods` [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: validate /Applications/MAMP/htdocs/goodsManage/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /Applications/MAMP/htdocs/goodsManage/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+ERR: 1364:Field 'count' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `goodsmanage_goods` (`name`,`img`,`info`,`provider`,`create_at`,`update_at`) VALUES ('小当家','pull.png','好吃的小当家','供应商1','2018-05-12 10:22:02','2018-05-12 10:22:02')
+ERR: 1364:Field 'count' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `goodsmanage_goods` (`name`,`img`,`info`,`provider`,`create_at`,`update_at`) VALUES ('小当家','pull.png','好吃的小当家','供应商1','2018-05-12 10:22:02','2018-05-12 10:22:02')
+
+[ 2018-05-12T10:22:04+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000756s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_goods` [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: validate /Applications/MAMP/htdocs/goodsManage/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /Applications/MAMP/htdocs/goodsManage/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+ERR: 1364:Field 'count' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `goodsmanage_goods` (`name`,`img`,`info`,`provider`,`create_at`,`update_at`) VALUES ('小当家','pull.png','好吃的小当家','供应商1','2018-05-12 10:22:04','2018-05-12 10:22:04')
+ERR: 1364:Field 'count' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `goodsmanage_goods` (`name`,`img`,`info`,`provider`,`create_at`,`update_at`) VALUES ('小当家','pull.png','好吃的小当家','供应商1','2018-05-12 10:22:04','2018-05-12 10:22:04')
+
+[ 2018-05-12T10:25:52+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000763s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_goods` [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: validate /Applications/MAMP/htdocs/goodsManage/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /Applications/MAMP/htdocs/goodsManage/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+ERR: 1364:Field 'count' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `goodsmanage_goods` (`name`,`img`,`info`,`provider`,`create_at`,`update_at`) VALUES ('小当家','','123123','供应商1','2018-05-12 10:25:52','2018-05-12 10:25:52')
+ERR: 1364:Field 'count' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `goodsmanage_goods` (`name`,`img`,`info`,`provider`,`create_at`,`update_at`) VALUES ('小当家','','123123','供应商1','2018-05-12 10:25:52','2018-05-12 10:25:52')
+
+[ 2018-05-12T10:26:04+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000723s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_goods` [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: validate /Applications/MAMP/htdocs/goodsManage/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /Applications/MAMP/htdocs/goodsManage/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+ERR: 1364:Field 'count' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `goodsmanage_goods` (`name`,`img`,`info`,`provider`,`create_at`,`update_at`) VALUES ('小当家','','123123','供应商1','2018-05-12 10:26:04','2018-05-12 10:26:04')
+ERR: 1364:Field 'count' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `goodsmanage_goods` (`name`,`img`,`info`,`provider`,`create_at`,`update_at`) VALUES ('小当家','','123123','供应商1','2018-05-12 10:26:04','2018-05-12 10:26:04')
+
+[ 2018-05-12T10:30:24+08:00 ] ::1 /goodsManage/index.php/Admin/Index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002108s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_admin` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `goodsmanage_admin` WHERE ( name='admin' AND password='123' ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000604s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000647s ]
+
+[ 2018-05-12T10:38:49+08:00 ] ::1 /goodsManage/index.php/Admin/Index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000969s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_admin` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `goodsmanage_admin` WHERE ( name='admin' AND password='123' ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000560s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000606s ]
+
+[ 2018-05-12T10:42:04+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000772s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_goods` [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: validate /Applications/MAMP/htdocs/goodsManage/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /Applications/MAMP/htdocs/goodsManage/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+ERR: 1364:Field 'count' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `goodsmanage_goods` (`name`,`img`,`info`,`provider`,`create_at`,`update_at`) VALUES ('hahha','','123123','供应商1','2018-05-12 10:42:04','2018-05-12 10:42:04')
+ERR: 1364:Field 'count' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `goodsmanage_goods` (`name`,`img`,`info`,`provider`,`create_at`,`update_at`) VALUES ('hahha','','123123','供应商1','2018-05-12 10:42:04','2018-05-12 10:42:04')
+
+[ 2018-05-12T11:07:24+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000657s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_goods` [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: validate /Applications/MAMP/htdocs/goodsManage/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /Applications/MAMP/htdocs/goodsManage/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+ERR: 1364:Field 'count' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `goodsmanage_goods` (`name`,`img`,`info`,`provider`,`create_at`,`update_at`) VALUES ('hahha','','123123','供应商1','2018-05-12 11:07:24','2018-05-12 11:07:24')
+ERR: 1364:Field 'count' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `goodsmanage_goods` (`name`,`img`,`info`,`provider`,`create_at`,`update_at`) VALUES ('hahha','','123123','供应商1','2018-05-12 11:07:24','2018-05-12 11:07:24')
+
+[ 2018-05-12T11:07:29+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000780s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_goods` [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: validate /Applications/MAMP/htdocs/goodsManage/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /Applications/MAMP/htdocs/goodsManage/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+ERR: 1364:Field 'count' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `goodsmanage_goods` (`name`,`img`,`info`,`provider`,`create_at`,`update_at`) VALUES ('hahha','','123123','供应商1','2018-05-12 11:07:29','2018-05-12 11:07:29')
+ERR: 1364:Field 'count' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `goodsmanage_goods` (`name`,`img`,`info`,`provider`,`create_at`,`update_at`) VALUES ('hahha','','123123','供应商1','2018-05-12 11:07:29','2018-05-12 11:07:29')
+
+[ 2018-05-12T11:07:48+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001049s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_goods` [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: validate /Applications/MAMP/htdocs/goodsManage/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /Applications/MAMP/htdocs/goodsManage/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+ERR: 1364:Field 'count' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `goodsmanage_goods` (`name`,`img`,`info`,`provider`,`create_at`,`update_at`) VALUES ('hahha','','123123','供应商1','2018-05-12 11:07:48','2018-05-12 11:07:48')
+ERR: 1364:Field 'count' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `goodsmanage_goods` (`name`,`img`,`info`,`provider`,`create_at`,`update_at`) VALUES ('hahha','','123123','供应商1','2018-05-12 11:07:48','2018-05-12 11:07:48')
+
+[ 2018-05-12T11:11:49+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_goods` [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: validate /Applications/MAMP/htdocs/goodsManage/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /Applications/MAMP/htdocs/goodsManage/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+ERR: 1364:Field 'img' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `goodsmanage_goods` (`name`,`info`,`provider`,`create_at`,`update_at`) VALUES ('hahha','123123','供应商1','2018-05-12 11:11:49','2018-05-12 11:11:49')
+ERR: 1364:Field 'img' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `goodsmanage_goods` (`name`,`info`,`provider`,`create_at`,`update_at`) VALUES ('hahha','123123','供应商1','2018-05-12 11:11:49','2018-05-12 11:11:49')
+

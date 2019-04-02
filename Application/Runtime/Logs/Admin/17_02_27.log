@@ -1,0 +1,20 @@
+[ 2017-02-27T20:49:01+08:00 ] ::1 /goodsManage/index.php/Admin/Listgoods/deleteGoods
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017866s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_goods` [ RunTime:0.0128s ]
+SQL: DELETE FROM `goodsmanage_goods` WHERE (  id='7'  ) [ RunTime:0.0303s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005615s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005860s ]
+
+[ 2017-02-27T20:49:03+08:00 ] ::1 /goodsManage/index.php/Admin/Listgoods/deleteGoods
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001842s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_goods` [ RunTime:0.0110s ]
+SQL: DELETE FROM `goodsmanage_goods` WHERE (  id='7'  ) [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004426s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004696s ]
+

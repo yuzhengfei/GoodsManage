@@ -1,0 +1,30 @@
+[ 2018-03-28T22:50:22+08:00 ] ::1 /goodsManage/index.php/Admin/Index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002773s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_admin` [ RunTime:0.0142s ]
+SQL: SELECT * FROM `goodsmanage_admin` WHERE ( name='admin' AND password='123' ) LIMIT 1   [ RunTime:0.0021s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001731s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001863s ]
+
+[ 2018-03-28T22:54:31+08:00 ] ::1 /goodsManage/index.php/Admin/Index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008019s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_admin` [ RunTime:0.0181s ]
+SQL: SELECT * FROM `goodsmanage_admin` WHERE ( name='admin2' AND password='123' ) LIMIT 1   [ RunTime:0.0132s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001517s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001653s ]
+
+[ 2018-03-28T23:00:10+08:00 ] ::1 /goodsManage/index.php/Admin/Index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.023304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024416s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_admin` [ RunTime:0.0792s ]
+SQL: SELECT * FROM `goodsmanage_admin` WHERE ( name='admin' AND password='123' ) LIMIT 1   [ RunTime:0.0150s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001241s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001351s ]
+

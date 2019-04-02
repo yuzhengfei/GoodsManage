@@ -1,0 +1,872 @@
+[ 2018-05-10T21:34:07+08:00 ] ::1 /goodsManage/index.php/Admin/Index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001614s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_admin` [ RunTime:0.0493s ]
+SQL: SELECT * FROM `goodsmanage_admin` WHERE ( name='admin' AND password='123' ) LIMIT 1   [ RunTime:0.0012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001326s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001417s ]
+
+[ 2018-05-10T21:36:50+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001304s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000870s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000930s ]
+
+[ 2018-05-10T21:36:58+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001033s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000670s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000728s ]
+
+[ 2018-05-10T21:36:59+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001352s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000721s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000796s ]
+
+[ 2018-05-10T21:36:59+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000932s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001696s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000936s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001032s ]
+
+[ 2018-05-10T21:37:00+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001195s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000661s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000728s ]
+
+[ 2018-05-10T21:37:00+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001151s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000669s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000738s ]
+
+[ 2018-05-10T21:37:00+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001041s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000525s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000577s ]
+
+[ 2018-05-10T21:37:00+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000971s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000556s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000608s ]
+
+[ 2018-05-10T21:37:01+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001117s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000753s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000830s ]
+
+[ 2018-05-10T21:37:01+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000724s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001418s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000704s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000771s ]
+
+[ 2018-05-10T21:37:01+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001244s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000591s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000651s ]
+
+[ 2018-05-10T21:37:01+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000963s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000537s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000603s ]
+
+[ 2018-05-10T21:37:01+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001075s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000660s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000727s ]
+
+[ 2018-05-10T21:37:02+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001059s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000593s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000654s ]
+
+[ 2018-05-10T21:37:02+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001275s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000691s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000785s ]
+
+[ 2018-05-10T21:37:03+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001055s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000653s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000718s ]
+
+[ 2018-05-10T21:38:14+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000828s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001484s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000862s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000961s ]
+
+[ 2018-05-10T21:38:16+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001093s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000637s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000700s ]
+
+[ 2018-05-10T21:38:16+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001068s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000533s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000588s ]
+
+[ 2018-05-10T21:38:16+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001255s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000617s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000688s ]
+
+[ 2018-05-10T21:38:19+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001071s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000547s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000601s ]
+
+[ 2018-05-10T21:38:19+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001202s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000614s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000675s ]
+
+[ 2018-05-10T21:38:19+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001072s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000746s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000833s ]
+
+[ 2018-05-10T21:38:20+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000988s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000530s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000583s ]
+
+[ 2018-05-10T21:38:20+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000995s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000590s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000647s ]
+
+[ 2018-05-10T21:38:20+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001079s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000983s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001068s ]
+
+[ 2018-05-10T21:38:20+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001479s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000948s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001044s ]
+
+[ 2018-05-10T21:38:20+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001161s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000865s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000966s ]
+
+[ 2018-05-10T21:38:21+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001345s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000815s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000897s ]
+
+[ 2018-05-10T21:38:21+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000783s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001363s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000574s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000629s ]
+
+[ 2018-05-10T21:38:21+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000676s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001155s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000802s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000880s ]
+
+[ 2018-05-10T21:39:19+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001106s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\InorderController.class.php 第 35 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\InorderController.class.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000813s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000902s ]
+
+[ 2018-05-10T21:39:21+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000970s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000688s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000758s ]
+
+[ 2018-05-10T21:39:22+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001399s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000765s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000848s ]
+
+[ 2018-05-10T21:39:22+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000982s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000573s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000641s ]
+
+[ 2018-05-10T21:39:23+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000837s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001289s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000965s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001110s ]
+
+[ 2018-05-10T21:39:23+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001089s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000833s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000930s ]
+
+[ 2018-05-10T21:39:23+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001087s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000853s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000953s ]
+
+[ 2018-05-10T21:39:23+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001319s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000805s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000896s ]
+
+[ 2018-05-10T21:39:23+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000637s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000665s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000742s ]
+
+[ 2018-05-10T21:39:23+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001142s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000646s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000722s ]
+
+[ 2018-05-10T21:39:24+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001303s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000654s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000732s ]
+
+[ 2018-05-10T21:39:24+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001412s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000673s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000742s ]
+
+[ 2018-05-10T21:39:24+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001150s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000809s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000903s ]
+
+[ 2018-05-10T21:39:24+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001100s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000611s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000695s ]
+
+[ 2018-05-10T21:39:24+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001290s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000783s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000884s ]
+
+[ 2018-05-10T21:39:25+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001144s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000627s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000701s ]
+
+[ 2018-05-10T21:39:25+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001082s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000800s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000892s ]
+
+[ 2018-05-10T21:39:25+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001425s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000833s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000925s ]
+
+[ 2018-05-10T21:39:26+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000946s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000582s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000643s ]
+
+[ 2018-05-10T21:39:27+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001062s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000616s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000687s ]
+
+[ 2018-05-10T21:39:27+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000971s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000642s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000712s ]
+
+[ 2018-05-10T21:39:27+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000552s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000959s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000578s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000641s ]
+
+[ 2018-05-10T21:39:27+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000954s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000534s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000594s ]
+
+[ 2018-05-10T21:39:27+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001201s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000719s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000836s ]
+
+[ 2018-05-10T21:40:32+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000838s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001303s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000728s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000821s ]
+
+[ 2018-05-10T21:40:32+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001137s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000627s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000700s ]
+
+[ 2018-05-10T21:40:33+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001194s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000535s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000597s ]
+
+[ 2018-05-10T21:40:33+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000969s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000664s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000758s ]
+
+[ 2018-05-10T21:40:48+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001060s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000669s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000730s ]
+
+[ 2018-05-10T21:40:48+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000991s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000568s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000627s ]
+
+[ 2018-05-10T21:40:48+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000944s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000609s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000689s ]
+
+[ 2018-05-10T21:40:49+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000549s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000625s ]
+
+[ 2018-05-10T21:40:49+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001469s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000880s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000989s ]
+
+[ 2018-05-10T21:40:49+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000575s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000641s ]
+
+[ 2018-05-10T21:40:49+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001602s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000576s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000653s ]
+
+[ 2018-05-10T21:40:49+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000941s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000537s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000598s ]
+
+[ 2018-05-10T21:40:50+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000566s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000629s ]
+
+[ 2018-05-10T21:40:50+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000617s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000680s ]
+
+[ 2018-05-10T21:40:50+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000572s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000635s ]
+
+[ 2018-05-10T21:40:57+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000876s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001291s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000598s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000700s ]
+
+[ 2018-05-10T21:40:58+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001061s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000761s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000832s ]
+
+[ 2018-05-10T21:41:01+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000561s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000621s ]
+
+[ 2018-05-10T21:41:01+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001052s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000557s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000640s ]
+
+[ 2018-05-10T21:41:11+08:00 ] ::1 /goodsManage/index.php/Admin/Outorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001035s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000627s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000686s ]
+
+[ 2018-05-10T21:41:11+08:00 ] ::1 /goodsManage/index.php/Admin/Outorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000552s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000966s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000575s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000634s ]
+
+[ 2018-05-10T21:41:11+08:00 ] ::1 /goodsManage/index.php/Admin/Outorder/orderAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001173s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000570s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000634s ]
+
+[ 2018-05-10T21:41:13+08:00 ] ::1 /goodsManage/index.php/Admin/Outorder/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000993s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\OutorderController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\OutorderController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000651s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000709s ]
+
+[ 2018-05-10T21:41:13+08:00 ] ::1 /goodsManage/index.php/Admin/Outorder/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000552s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000978s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\OutorderController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\OutorderController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000612s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000667s ]
+
+[ 2018-05-10T21:43:23+08:00 ] ::1 /goodsManage/index.php/Admin/Addprovider/providerAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000783s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001310s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_provider` [ RunTime:0.0065s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\goodsManage\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\goodsManage\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `goodsmanage_provider` (`name`,`person`,`phone`,`adress`) VALUES ('大海家','王晓二','12345678','净月') [ RunTime:0.0012s ]
+SQL: SELECT * FROM `goodsmanage_provider` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001387s ]
+
+[ 2018-05-10T21:43:24+08:00 ] ::1 /goodsManage/index.php/Admin/Addprovider/providerAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001180s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_provider` [ RunTime:0.0176s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\goodsManage\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\goodsManage\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `goodsmanage_provider` (`name`,`person`,`phone`,`adress`) VALUES ('大海家','王晓二','12345678','净月') [ RunTime:0.0023s ]
+SQL: SELECT * FROM `goodsmanage_provider` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0016s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001209s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001314s ]
+
+[ 2018-05-10T21:43:33+08:00 ] ::1 /goodsManage/index.php/Admin/Listprovider/deleteProvider
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000744s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001351s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_provider` [ RunTime:0.0206s ]
+SQL: DELETE FROM `goodsmanage_provider` WHERE (  id='1'  ) [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001534s ]
+
+[ 2018-05-10T21:44:43+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000955s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_goods` [ RunTime:0.0179s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\goodsManage\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\goodsManage\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `goodsmanage_goods` (`name`,`img`,`info`,`provider`,`create_at`,`update_at`) VALUES ('小当家','C:\\fakepath\\63e0059607704b803464bace356db3a5248869f0760bb-FT6x8q_fw658.jpg','好吃  耶  ！','大海家','2018-05-10 21:44:43','2018-05-10 21:44:43') [ RunTime:0.0024s ]
+SQL: SELECT * FROM `goodsmanage_goods` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002208s ]
+
+[ 2018-05-10T21:45:02+08:00 ] ::1 /goodsManage/index.php/Admin/Listgoods/deleteGoods
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000993s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_goods` [ RunTime:0.0172s ]
+SQL: DELETE FROM `goodsmanage_goods` WHERE (  id='1'  ) [ RunTime:0.0022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001753s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001941s ]
+
+[ 2018-05-10T21:46:23+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001195s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000659s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000729s ]
+
+[ 2018-05-10T21:46:27+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000965s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000617s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000681s ]
+
+[ 2018-05-10T21:46:29+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000954s ]
+NOTIC: [8] Use of undefined constant JSON_UNESCAPED_UNICODE - assumed 'JSON_UNESCAPED_UNICODE' D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+NOTIC: [2] json_encode() expects parameter 2 to be long, string given D:\phpStudy\WWW\goodsManage\Application\Admin\Controller\AddgoodsController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000666s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000719s ]
+
+[ 2018-05-10T21:46:50+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001006s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_goods` [ RunTime:0.0188s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\goodsManage\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\goodsManage\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `goodsmanage_goods` (`name`,`img`,`info`,`provider`,`create_at`,`update_at`) VALUES ('小当家','C:\\fakepath\\63e0059607704b803464bace356db3a5248869f0760bb-FT6x8q_fw658.jpg','好吃  耶斯！','大海家','2018-05-10 21:46:50','2018-05-10 21:46:50') [ RunTime:0.0011s ]
+SQL: SELECT * FROM `goodsmanage_goods` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002004s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002163s ]
+
+[ 2018-05-10T21:47:37+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001066s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_order_item` [ RunTime:0.1079s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\goodsManage\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\goodsManage\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `goodsmanage_order_item` (`goods_id`,`count`,`price`,`ordernumber`) VALUES ('2','0','0','ｘｋ－００００１２５') [ RunTime:0.0026s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_goods` [ RunTime:0.0184s ]
+SQL: SELECT `count` FROM `goodsmanage_goods` WHERE ( id='2' )  [ RunTime:0.0020s ]
+SQL: UPDATE `goodsmanage_goods` SET `count`='0',`purchasePrice`='0' WHERE ( id='2' ) [ RunTime:0.0019s ]
+SQL: SELECT * FROM `goodsmanage_order_item` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT * FROM `goodsmanage_goods` WHERE ( id='2' )  [ RunTime:0.0022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002464s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002657s ]
+
+[ 2018-05-10T21:47:47+08:00 ] ::1 /goodsManage/index.php/Admin/Inorder/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000965s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_order_item` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\goodsManage\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\goodsManage\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `goodsmanage_order_item` (`goods_id`,`count`,`price`,`ordernumber`) VALUES ('2','0','0','ｘｋ－００００１２６') [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_goods` [ RunTime:0.0075s ]
+SQL: SELECT `count` FROM `goodsmanage_goods` WHERE ( id='2' )  [ RunTime:0.0010s ]
+SQL: UPDATE `goodsmanage_goods` SET `count`='0',`purchasePrice`='0' WHERE ( id='2' ) [ RunTime:0.0008s ]
+SQL: SELECT * FROM `goodsmanage_order_item` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `goodsmanage_goods` WHERE ( id='2' )  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000952s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001029s ]
+
+[ 2018-05-10T21:54:33+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001812s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_goods` [ RunTime:0.0178s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\goodsManage\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\goodsManage\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `goodsmanage_goods` (`name`,`img`,`info`,`provider`,`create_at`,`update_at`) VALUES ('士大夫','C:\\fakepath\\63e0059607704b803464bace356db3a5248869f0760bb-FT6x8q_fw658.jpg','梵蒂冈','大海家','2018-05-10 21:54:33','2018-05-10 21:54:33') [ RunTime:0.0026s ]
+SQL: SELECT * FROM `goodsmanage_goods` WHERE ( id='3' ) LIMIT 1   [ RunTime:0.0023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001826s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001989s ]
+
+[ 2018-05-10T22:03:06+08:00 ] ::1 /goodsManage/index.php/Admin/Addgoods/goodsAdd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `goodsmanage_goods` [ RunTime:0.0069s ]
+NOTIC: [8] Undefined index: validate D:\phpStudy\WWW\goodsManage\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\phpStudy\WWW\goodsManage\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `goodsmanage_goods` (`name`,`img`,`info`,`provider`,`create_at`,`update_at`) VALUES ('３２４３２','C:\\fakepath\\63e0059607704b803464bace356db3a5248869f0760bb-FT6x8q_fw658.jpg','３２４３２４','大海家','2018-05-10 22:03:06','2018-05-10 22:03:06') [ RunTime:0.0011s ]
+SQL: SELECT * FROM `goodsmanage_goods` WHERE ( id='4' ) LIMIT 1   [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000994s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001068s ]
+
